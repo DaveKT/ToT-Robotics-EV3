@@ -1,0 +1,53 @@
+##Taste of Technology Lego Robotics Class Outline
+
+ToT Lego Robotics is a three day course taught over the period of 3 weeks to students between the ages of 9 and 12. The primary goal of the course is to intoduce technical concepts to students who show an interest and who may not have had prior exposure. During the ToT class the participating students are also exposed to thee sessions with Hour of Code and thress sessions with digital movie making.
+
+###Course Materials for ToT Robotics
+
+*	[Riley Rover](http://www.damienkee.com/home/2013/8/2/rileyrover-ev3-classroom-robot-design.html) (built from the [LEGO Mindstorms Education Kit](https://shop.education.lego.com/legoed/en-US/search/navSearchResults.jsp?categoryId=EDU_PRD_LINE_107&ProductLine=MINDSTORMS+Education+EV3))
+*	Low Power Laptop or Desktop Computers
+*	EV3 Code Included in this Repository
+
+###Course Outline
+
+####Week One
+**Goals**: Introduce the LEGO Software, Introduce Motors and Speakers (output), Introduce Loops
+
+**Programs**
+1.	Sound.ev3
+2. 	Motors.ev3
+
+**Session Guide**
+1.	Project IDE and walk through: Launching the LEGO IDE; Starting a new program; The Start Block and Block Types; Editing a Block
+2.	Show sound program and have the students replicate and test.
+3.	Demonstrate motors and have the students replicate and test the right angle program.
+4.	Thought Experiment: Code a Square (Right angle program four times)
+5.	Demonstrate loops and have the students replicate the square program.
+
+**Stretch**
+1.	Modify the square code to draw a triangle.
+2.	Write a new program that will have the robot go in a circle with one block.
+3.	Do any of the earlier programs so that the robot runs backwards.
+
+####Week Two
+**Goals**: Introduce Color and Ultrasonic Sensors (input), Introduce Switch Blocks (Conditional Statements)
+
+**Programs**
+1.	InAndOut.ev3
+2.	AvoidWalls.ev3
+
+**Session Guide**
+1. 	Warm up with quick walkthrough and copy of Output program in InAndOut
+2.	Discuss the difference in input and output with examples. Ask students to give additional examples.
+3.	Review the logic (switch block) and have students replicate the Input and Output program in InAndOut. 
+4.	Review the logic and have students replicate the Distance program in InAndOut.
+5.	Discuss what input and outputs were used in this sessions programming.
+
+**Stretch**
+1.	Discuss the behavior of wall avoidance.
+2.	Have the students troubleshoot the broken avoid walls program.
+
+####Week Three
+**Goals**: Demonstrate learning by independantly coding a solution for line following problem.
+
+**Programs**
