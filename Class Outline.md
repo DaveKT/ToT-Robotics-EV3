@@ -14,17 +14,24 @@ ToT Lego Robotics is a three day course taught over the period of 3 weeks to stu
 **Goals**: Introduce the LEGO Software, Introduce Motors and Speakers (output), Introduce Loops
 
 **Programs**
+
 1.	Sound.ev3
 2. 	Motors.ev3
 
 **Session Guide**
-1.	Project IDE and walk through: Launching the LEGO IDE; Starting a new program; The Start Block and Block Types; Editing a Block
+
+1.	Project IDE and walk through
+	*	Launching the LEGO IDE;
+	*	Starting a new program; 
+	*	The Start Block and Block Types;
+	*	Editing a Block
 2.	Show sound program and have the students replicate and test.
 3.	Demonstrate motors and have the students replicate and test the right angle program.
 4.	Thought Experiment: Code a Square (Right angle program four times)
 5.	Demonstrate loops and have the students replicate the square program.
 
 **Stretch**
+
 1.	Modify the square code to draw a triangle.
 2.	Write a new program that will have the robot go in a circle with one block.
 3.	Do any of the earlier programs so that the robot runs backwards.
@@ -33,21 +40,38 @@ ToT Lego Robotics is a three day course taught over the period of 3 weeks to stu
 **Goals**: Introduce Color and Ultrasonic Sensors (input), Introduce Switch Blocks (Conditional Statements)
 
 **Programs**
+
 1.	InAndOut.ev3
 2.	AvoidWalls.ev3
 
 **Session Guide**
+
 1. 	Warm up with quick walkthrough and copy of Output program in InAndOut
 2.	Discuss the difference in input and output with examples. Ask students to give additional examples.
 3.	Review the logic (switch block) and have students replicate the Input and Output program in InAndOut. 
-4.	Review the logic and have students replicate the Distance program in InAndOut.
-5.	Discuss what input and outputs were used in this sessions programming.
+4.	Discuss the behavior of wall avoidance.
+5.	Have the students troubleshoot the broken avoid walls program.
 
 **Stretch**
-1.	Discuss the behavior of wall avoidance.
-2.	Have the students troubleshoot the broken avoid walls program.
+
+1.	Review the logic and have students replicate the Distance program in InAndOut.
+2.	Discuss what input and outputs were used in this sessions programming.
 
 ####Week Three
 **Goals**: Demonstrate learning by independantly coding a solution for line following problem.
 
 **Programs**
+1.	AdvancedLogic.ev3
+
+**Session Guide**
+
+1.	Review inputs and outputs. Focus on motors (output) and color sensor (input).
+2.	Review the switch and loop logic blocks.
+2.	Show LEGO Test Mat
+3.	Demonstrate line following behavior (by pretending to be a robot; talk about what is being processed)
+4.	Assign the students the task of creating a line following robot. List the blocks that will be needed.
+	1. Start Block
+	2. Loop  Block
+	3. Switch Block
+	4. Motor Block
+5.	During the coding process talk about build and test iterations.
