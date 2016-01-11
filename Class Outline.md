@@ -61,6 +61,7 @@ ToT Lego Robotics is a three day course taught over the period of 3 weeks to stu
 **Goals**: Demonstrate learning by independantly coding a solution for line following problem.
 
 **Programs**
+
 1.	AdvancedLogic.ev3
 
 **Session Guide**
