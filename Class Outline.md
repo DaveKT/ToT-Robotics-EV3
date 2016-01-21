@@ -15,8 +15,9 @@ ToT Lego Robotics is a three day course taught over the period of 3 weeks to stu
 
 **Programs**
 
-1.	Sound.ev3
-2. 	Motors.ev3
+1.	hello.ev3
+2.	Sound.ev3
+3. 	Motors.ev3
 
 **Session Guide**
 
@@ -25,7 +26,7 @@ ToT Lego Robotics is a three day course taught over the period of 3 weeks to stu
 	*	Starting a new program; 
 	*	The Start Block and Block Types;
 	*	Editing a Block
-2.	Show sound program and have the students replicate and test.
+2.	Show hello and sound programs and have the students replicate and test.
 3.	Demonstrate motors and have the students replicate and test the right angle program.
 4.	Thought Experiment: Code a Square (Right angle program four times)
 5.	Demonstrate loops and have the students replicate the square program.
