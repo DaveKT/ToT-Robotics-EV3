@@ -1,16 +1,16 @@
-##Taste of Technology Lego Robotics Class Outline
+## Taste of Technology Lego Robotics Class Outline
 
 ToT Lego Robotics is a three day course taught over the period of 3 weeks to students between the ages of 9 and 12. The primary goal of the course is to intoduce technical concepts to students who show an interest and who may not have had prior exposure. During the ToT class the participating students are also exposed to thee sessions with Hour of Code and thress sessions with digital movie making.
 
-###Course Materials for ToT Robotics
+### Course Materials for ToT Robotics
 
 *	[Riley Rover](http://www.damienkee.com/home/2013/8/2/rileyrover-ev3-classroom-robot-design.html) (built from the [LEGO Mindstorms Education Kit](https://shop.education.lego.com/legoed/en-US/search/navSearchResults.jsp?categoryId=EDU_PRD_LINE_107&ProductLine=MINDSTORMS+Education+EV3))
 *	Low Power Laptop or Desktop Computers
 *	EV3 Code Included in this Repository - *note, code is provided for both computer and ipad platforms. Switching platforms mid-session is not recommended.*
 
-###Course Outline
+### Course Outline
 
-####Week One
+#### Week One
 **Goals**: Introduce the LEGO Software, Introduce Motors and Speakers (output), Introduce Loops
 
 **Programs**
@@ -37,7 +37,7 @@ ToT Lego Robotics is a three day course taught over the period of 3 weeks to stu
 2.	Write a new program that will have the robot go in a circle with one block.
 3.	Do any of the earlier programs so that the robot runs backwards.
 
-####Week Two
+#### Week Two
 **Goals**: Introduce Color and Ultrasonic Sensors (input), Introduce Switch Blocks (Conditional Statements)
 
 **Programs**
@@ -58,7 +58,7 @@ ToT Lego Robotics is a three day course taught over the period of 3 weeks to stu
 1.	Review the logic and have students replicate the Distance program in InAndOut.
 2.	Discuss what input and outputs were used in this sessions programming.
 
-####Week Three
+#### Week Three
 **Goals**: Demonstrate learning by independantly coding a solution for line following problem.
 
 **Programs**
