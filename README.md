@@ -44,8 +44,8 @@ Optionally teachers may wish to use the [Sirius (FLL Robot)](http://builderdude3
 
 **Programs**
 
-1.	InAndOut.ev3
-2.	AvoidWalls.ev3
+1.	[Inout and Output](docs/inandout.md)
+2.	[Avoid Walls](docs/avoidwalls.md)
 
 **Session Guide**
 
@@ -65,7 +65,7 @@ Optionally teachers may wish to use the [Sirius (FLL Robot)](http://builderdude3
 
 **Programs**
 
-1.	AdvancedLogic.ev3
+1.	[Advanced Logic](advancedlogic.md)
 
 **Session Guide**
 
