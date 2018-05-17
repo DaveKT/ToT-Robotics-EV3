@@ -1,6 +1,6 @@
-## Taste of Technology Lego Robotics Class Outline
+## Taste of Technology LEGO Robotics Class Outline
 
-ToT Lego EV3 Robotics is a three session course taught over the period of 3 weeks to students between the ages of 9 and 12. The primary goal of the course is to introduce basic programming and robotics concepts to students who show an interest and who may not have had prior exposure. This outline provides a list of materials and curriculum needed to lead the course.
+ToT LEGO EV3 Robotics is a three session course taught over the period of 3 weeks to students between the ages of 9 and 12. The primary goal of the course is to introduce basic programming and robotics concepts to students who show an interest and who may not have had prior exposure. This outline provides a list of materials and curriculum needed to lead the course.
 
 ### Course Materials for ToT Robotics
 
