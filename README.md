@@ -19,7 +19,7 @@ Optionally teachers may wish to use the [Sirius (FLL Robot)](http://builderdude3
 
 1.	[Hello World](docs/hello.md)
 2.	[Sound](docs/sound.md)
-3. 	Motors
+3. 	[Motors](docs/motors.md)
 
 **Session Guide**
 
