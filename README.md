@@ -17,7 +17,7 @@ Optionally teachers may wish to use the [Sirius (FLL Robot)](http://builderdude3
 
 **Programs**
 
-1.	Hello
+1.	Hello World
 2.	Sound
 3. 	Motors
 
