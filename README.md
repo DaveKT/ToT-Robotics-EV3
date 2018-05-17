@@ -28,14 +28,16 @@ Optionally teachers may wish to use the [Sirius (FLL Robot)](http://builderdude3
 	*	Starting a new program
 	*	The Start Block and block types
 	*	Editing a block
-2.	Show hello and sound programs and have the students replicate and test. Make sure that the students are able to upload and execute the program on their own. They may either upload the program, disconnect the robot, and use the robot's menu to run the program OR they may leave the robot connected to the computer and run the program from the IDE using the "play" button.
-3.	Demonstrate motors and have the students replicate and test the right angle program.
-4.	Thought Experiment: Code a Square (Right angle program four times)
-5.	Demonstrate loops and have the students replicate the square program.
+*Note*: New users should watch the [Getting Started on Your PC/MAC](https://www.lego.com/en-us/mindstorms/learn-to-program) video.
+
+2.	Show [Hello World](docs/hello.md) and [Sound](docs/sound.md) programs using a projector or printout and have the students copy and run the program. Make sure that the students are able to upload and execute the program on their own. They may either upload the program, disconnect the robot, and use the robot's menu to run the program OR they may leave the robot connected to the computer and run the program from the IDE using the "play" button.
+3.	Review [Motors](docs/motors.md) and have the students replicate and run the *Right Angle* program.
+4.	Thought Experiment: How could a programmer use the *Right Angle* code to make a robot trace out a square? (Answer: run the right angle program four times).
+5.	Demonstrate loops and have the students replicate the *Square Program*.
 
 **Stretch**
 
-1.	Modify the square code to draw a triangle.
+1.	Modify the square code to draw a triangle. (Think about the number of sides and the degrees in each angle of and equilateral triangle).
 2.	Write a new program that will have the robot go in a circle with one block.
 3.	Do any of the earlier programs so that the robot runs backwards.
 
