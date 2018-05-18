@@ -63,7 +63,7 @@ Optionally teachers may wish to use the [Sirius (FLL Robot)](http://builderdude3
 2.	Discuss what input and outputs were used in this sessions programming.
 
 #### Session Three
-**Goals**: Demonstrate learning by independantly coding a solution for line following problem.
+**Goals**: Demonstrate learning by independently coding a solution for line following problem.
 
 **Programs**
 

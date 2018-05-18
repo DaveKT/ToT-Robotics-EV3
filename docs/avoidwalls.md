@@ -1,5 +1,5 @@
 ## Avoid Walls
-TODO
+Simple input and output can be used together to create complex behaviors. In this exercise the students create their first fully autonomous robot. After the students have replicated the Avoid Walls program as written they can adjust the program to react to obstacles "sooner" or take a different corrective action (other than backing up and turning).
 
 ### Code
 
@@ -9,4 +9,4 @@ TODO
 
 
 ### Behavior
-TODO
+This program allows the robot to drive forward while using the ultrasonic sensor to detect obstacles. If an obstacle is detected the robot will back up and turn to drive in a new direction.
