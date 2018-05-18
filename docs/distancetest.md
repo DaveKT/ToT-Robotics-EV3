@@ -3,9 +3,8 @@ This program demonstrates the use of math to drive precise robot behavior. In th
 
 We can represent this formula as,
 
-<div style="text-align:center"><img src="https://github.com/DaveKT/ToT-Robotics-EV3/raw/master/wheelrotationsforumla.png" alt="Image of Program Code" /></div>
 
-
+<div style="text-align:center"><img src="https://github.com/DaveKT/ToT-Robotics-EV3/raw/master/docs/wheelrotationsformula.png" alt="Image of Rotations Formula" style="width: 50%"/></div>
 
 ### Code
 
