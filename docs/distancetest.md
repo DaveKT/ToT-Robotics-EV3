@@ -3,7 +3,9 @@ This program demonstrates the use of math to drive precise robot behavior. In th
 
 We can represent this formula as,
 
-\\[ {Wheel\ Rotations}=\frac{Distance\ To\ Travel}{Wheel\ Circumference} \\]
+<div style="text-align:center"><img src="https://github.com/DaveKT/ToT-Robotics-EV3/raw/master/wheelrotationsforumla.png" alt="Image of Program Code" /></div>
+
+
 
 ### Code
 
