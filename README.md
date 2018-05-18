@@ -8,7 +8,7 @@ ToT LEGO EV3 Robotics is a three session course taught over the period of 3 week
 *	Low Power Laptop or Desktop Computers
 *	EV3 Code Included in this Repository - *note, code is provided for both computer and iPad platforms. Switching platforms mid-session is not recommended.*
 
-Optionally teachers may wish to use the [Sirius (FLL Robot)](http://builderdude35.com/downloads-2/) model to teach this course since this model is a little better known than the Riley Rover thanks to FIRST LEGO League. To use this model, small modifications to the base programs will be required. Most importantly, the large motors will need to have their power levels multiplied by -1 as the Sirius motors are "upside-down". Less experienced users are probably best served by the Riley Rover model.
+Optionally teachers may wish to use the [Sirius (FLL Robot)](http://builderdude35.com/downloads-2/) model to teach this course since this model is a little better known than the Riley Rover thanks to FIRST LEGO League and Kyle Markland a.k.a. [BuilderDude35](http://builderdude35.com). To use this model, small modifications to the base programs will be required. Most importantly, the large motors will need to have their power levels multiplied by -1 as the Sirius motors are "upside-down". Less experienced users are probably best served by the Riley Rover model.
 
 ### Course Outline
 
@@ -68,16 +68,22 @@ Optionally teachers may wish to use the [Sirius (FLL Robot)](http://builderdude3
 **Programs**
 
 1.	[Advanced Logic](docs/advancedlogic.md)
+2.	[Distance Test](docs/distancetest.md)
 
 **Session Guide**
 
 1.	Review inputs and outputs. Focus on motors (output) and color sensor (input).
-2.	Review the switch and loop logic blocks.
-2.	Show LEGO Test Mat
-3.	Demonstrate line following behavior (by pretending to be a robot; talk about what is being processed)
+2.	Review how the switch and loop logic blocks work.
+2.	Show LEGO Test Mat paying special attention to the black oval line.
+3.	Demonstrate line following behavior by pretending to be a robot; talk about what is being processed. If you're not familiar with line following behavior read the [Advanced Logic guide](docs/advancedlogic.md) before leading this lesson.
 4.	Assign the students the task of creating a line following robot. List the blocks that will be needed.
 	1. Start Block
 	2. Loop  Block
 	3. Switch Block
 	4. Motor Block
 5.	During the coding process talk about build and test iterations.
+6.	If the students run out of time you can share the preprogrammed solution and talk through the code so that everyone understands the process.
+
+ **Stretch**
+
+ 1.	Discuss math blocks and how they can be used to make a robots actions more precise. Discuss and run the exercise in the [Distance Test guide](docs/distancetest.md).
