@@ -42,11 +42,11 @@ Optionally teachers may wish to use the [Sirius (FLL Robot)](http://builderdude3
 3.	Do any of the earlier programs so that the robot runs backwards.
 
 #### Session Two
-**Goals**: Introduce Color and Ultrasonic Sensors (input), Introduce Switch Blocks (Conditional Statements)
+**Goals**: Introduce Color and Ultrasonic Sensors (Input), Introduce Switch Blocks (Conditional Statements)
 
 **Programs**
 
-1.	[Inout and Output](docs/inandout.md)
+1.	[Input and Output](docs/inandout.md)
 2.	[Avoid Walls](docs/avoidwalls.md)
 
 **Session Guide**
