@@ -3,8 +3,11 @@ This program demonstrates the use of math to drive precise robot behavior. In th
 
 We can represent this formula as,
 
-
 <p align="center"><img src="https://github.com/DaveKT/ToT-Robotics-EV3/raw/master/docs/wheelrotationsformula.png" alt="Image of Rotations Formula" style="width: 75%"/></p>
+
+For our example code below, the distance to travel is 36 inches and the wheel cirumference (which can be looked up in the table below) in 6.875. This results in the following,
+
+<p align="center"><img src="https://github.com/DaveKT/ToT-Robotics-EV3/raw/master/docs/rotationscalculation.png" alt="Image of Rotations Calculation" style="width: 75%"/></p>
 
 ### Code
 
