@@ -67,7 +67,7 @@ Optionally teachers may wish to use the [Sirius (FLL Robot)](http://builderdude3
 
 **Programs**
 
-1.	[Advanced Logic](docs/advancedlogic.md)
+1.	[Line Follower](docs/advancedlogic.md)
 2.	[Distance Test](docs/distancetest.md)
 
 **Session Guide**
