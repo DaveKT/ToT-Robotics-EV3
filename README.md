@@ -75,7 +75,7 @@ Optionally teachers may wish to use the [Sirius (FLL Robot)](http://builderdude3
 1.	Review inputs and outputs. Focus on motors (output) and color sensor (input).
 2.	Review how the switch and loop logic blocks work.
 2.	Show LEGO Test Mat paying special attention to the black oval line.
-3.	Demonstrate line following behavior by pretending to be a robot; talk about what is being processed. If you're not familiar with line following behavior read the [Advanced Logic guide](docs/advancedlogic.md) before leading this lesson.
+3.	Demonstrate line following behavior by pretending to be a robot; talk about what is being processed. If you're not familiar with line following behavior read the [Line Follower guide](docs/advancedlogic.md) before leading this lesson.
 4.	Assign the students the task of creating a line following robot. List the blocks that will be needed.
 	1. Start Block
 	2. Loop  Block
