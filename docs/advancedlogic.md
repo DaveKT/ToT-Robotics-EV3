@@ -1,5 +1,5 @@
 ## Advanced Logic - Line Follower
-This session challenges the students to develop a simple line following behavior for their robot. This task is accomplished using the color sensor to detect the present of a line edge and update it's course based on its sensor's feedback. This challenge requires the students to use the programming skills they've required through the previous exercises. A full walk through of the code is below in the Behavior section.
+This session challenges the students to develop a simple line following behavior for their robot. The task is accomplished using the color sensor to detect the present of a line edge and update it's course based on its sensor's feedback. Students will use the programming skills they've required through the previous exercises. A full walk through of the code is below in the Behavior section.
 
 ### Code
 
@@ -9,4 +9,11 @@ This session challenges the students to develop a simple line following behavior
 
 
 ### Behavior
-The robot uses the color sensor to check if it sees the color of the line it's following. (The rest of this description will assume that the color of the line is black.) If the sensor sees the color black then.
+The robot follows a dark (continuous) line around using the color sensor to detect the edge if the line and a switch block to steer the robot. The program executes the following steps.
+
+1. Color sensor measures reflectivity (switch block)
+    1. If the reflectivity is low (false), the robot is directly over the line and should steer slightly forward and away from the line.
+    2. If the reflectivity is high (true), the robot is off the line and should steer slightly forward and towards the line.
+2. Repeat loop forever
+
+*Note: The example program is written so that the robot will follow the inside edge of a line (if the line is a tracing a circle). If you'd prefer your robot to follow the outside edge swap the position of the motor blocks so that the robot goes left when reflectivity is high and right when reflectivity is low.*
