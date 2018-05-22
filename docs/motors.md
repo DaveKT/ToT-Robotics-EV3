@@ -8,6 +8,8 @@ Motors allow robots to interact with the real world and DO something. This is ju
 <img src="https://github.com/DaveKT/ToT-Robotics-EV3/raw/master/docs/ev3/MotorsSquare.png" alt="Image of Program Code"/>
 
 [Download the EV3 Code](docs/ev3/Motors.ev3)
+[View the iPad Motors Code](docs/ev3ipad/iPadMotors1.jpeg)
+[View the iPad Motors Square Code](docs/ev3ipad/iPadMotorsSquare.jpeg)
 
 
 ### Behavior
