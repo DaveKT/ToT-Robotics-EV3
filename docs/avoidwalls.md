@@ -5,11 +5,11 @@ Simple input and output can be used together to create complex behaviors. In thi
 
 <img src="https://github.com/DaveKT/ToT-Robotics-EV3/raw/master/docs/ev3/AvoidWalls.png" alt="Image of Program Code" />
 
-[Download the EV3 Code](docs/ev3/AvoidWallsv2.ev3)
+[Download the EV3 Code](ev3/AvoidWallsv2.ev3)
 
-[Download the iPad Avoid Code pt 1](iPad/iPadAvoid.jpeg)
+[View the iPad Avoid Code pt 1](ev3iPad/iPadAvoid.jpeg)
 
-[Download the iPad Avoid Code pt 2](iPad/iPadAvoid2.jpeg)
+[View the iPad Avoid Code pt 2](ev3iPad/iPadAvoid2.jpeg)
 
 
 ### Behavior
