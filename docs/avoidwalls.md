@@ -7,6 +7,10 @@ Simple input and output can be used together to create complex behaviors. In thi
 
 [Download the EV3 Code](docs/ev3/AvoidWallsv2.ev3)
 
+[Download the iPad Avoid Code pt 1](iPad/iPadAvoid.jpeg)
+
+[Download the iPad Avoid Code pt 2](iPad/iPadAvoid2.jpeg)
+
 
 ### Behavior
 This program allows the robot to drive forward while using the ultrasonic sensor to detect obstacles. If an obstacle is detected the robot will back up and turn to drive in a new direction.
