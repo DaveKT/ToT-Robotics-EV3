@@ -13,7 +13,15 @@ By selectively using these input and output devices we can program a robot to be
 
 <img src="https://github.com/DaveKT/ToT-Robotics-EV3/raw/master/docs/ev3/InAndOutSong.png" alt="Image of Program Code" />
 
-[Download the EV3 Code](docs/ev3/InAndOut.ev3)
+[Download the EV3 Code](ev3/InAndOut.ev3)
+
+*Distance program not possible in iPad IDE*
+
+[View the iPad Code (No Red, pt 1)](ev3ipad/iPadNoRed.jpeg)
+
+[View the iPad Code (No Red, pt 2)](ev3ipad/iPadNoRed2.jpeg)
+
+[View the iPad Code (Song)](ev3ipad/iPadSong.jpeg)
 
 
 ### Behavior
