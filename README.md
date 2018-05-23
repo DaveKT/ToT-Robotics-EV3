@@ -6,10 +6,12 @@ ToT LEGO EV3 Robotics is a three session course taught over the period of 3 week
 
 *	[Riley Rover](http://www.damienkee.com/home/2013/8/2/rileyrover-ev3-classroom-robot-design.html) (built from the [LEGO Mindstorms Education Kit](https://shop.education.lego.com/legoed/en-US/search/navSearchResults.jsp?categoryId=EDU_PRD_LINE_107&ProductLine=MINDSTORMS+Education+EV3))
 *	Low Power Laptop or Desktop Computers
-*	EV3 Code Included in this Repository - *note, code is provided for both computer and iPad platforms. Switching platforms mid-session is not recommended.*
+*	EV3 Code Included in this Repository - *Note, code is provided for both computer and iPad platforms. Switching platforms mid-session is not recommended.*
 * [Troubleshooting Guide](docs/troubleshooting.md)
 
 Optionally teachers may wish to use the [Sirius (FLL Robot)](http://builderdude35.com/downloads-2/) model to teach this course since this model is a little better known than the Riley Rover thanks to FIRST LEGO League and Kyle Markland a.k.a. [BuilderDude35](http://builderdude35.com). To use this model, small modifications to the base programs will be required. Most importantly, the large motors will need to have their power levels multiplied by -1 as the Sirius motors are "upside-down". Less experienced users are probably best served by the Riley Rover model.
+
+*Note, this outline provides an iPad view for some of the exercises but due to limitations with the  iPad programming software not all exercises can be completed with an iPad.*
 
 ### Course Outline
 
