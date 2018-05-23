@@ -7,9 +7,9 @@ Simple input and output can be used together to create complex behaviors. In thi
 
 [Download the EV3 Code](ev3/AvoidWallsv2.ev3)
 
-[View the iPad Avoid Code pt 1](ev3iPad/iPadAvoid.jpeg)
+[View the iPad Avoid Code pt 1](ev3ipad/iPadAvoid.jpeg)
 
-[View the iPad Avoid Code pt 2](ev3iPad/iPadAvoid2.jpeg)
+[View the iPad Avoid Code pt 2](ev3ipad/iPadAvoid2.jpeg)
 
 
 ### Behavior
