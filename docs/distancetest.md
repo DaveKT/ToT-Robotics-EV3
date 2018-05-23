@@ -23,6 +23,7 @@ You can perform the calculations manually using the [EV3Lessons Wheel Converter]
 
 [Download the EV3 Code](docs/ev3/DistanceTest.ev3)
 
+*Distance Test program not possible in iPad IDE*
 
 ### Behavior
 The software drives the robot a specific distance {a} by calculating wheel rotations needed based on the wheel's diameter {b}.
